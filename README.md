@@ -3,7 +3,7 @@
 A responsive and interactive Admin Dashboard built for managing customer data, tracking sales, viewing product orders, and analyzing performance metrics. The dashboard provides real-time insights into online, offline, and website sales, along with detailed order management and user updates.
 
 🌐 Live Preview
-[Link Text](https://my-custom-dashboard.netlify.app/)
+[Demo Site](https://my-custom-dashboard.netlify.app/)
 
 📸 Screenshot
 
@@ -41,7 +41,7 @@ A responsive and interactive Admin Dashboard built for managing customer data, t
 
 🧑‍💻 Author
 Dhanushi
-Connect on [Link Text](https://www.linkedin.com/in/dhanushi-gupta-b3b397215/)
+Connect on [Linkedin](https://www.linkedin.com/in/dhanushi-gupta-b3b397215/)
 
 
 
