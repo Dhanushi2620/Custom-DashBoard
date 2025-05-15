@@ -68,7 +68,5 @@ The **Custom Admin Dashboard** is designed to give a real-time overview of key b
 
 -- [LinkedIn](https://www.linkedin.com/in/dhanushi-gupta-b3b397215/)
 
--- [Email](dhanushi.ug23@nsut.ac.in)
-
 
 
